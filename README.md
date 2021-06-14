@@ -22,23 +22,23 @@
 <h2 align="center">You can reach me at </h2>
 
 <p align="center">
-  <a target="_blank" href="https://www.instagram.com/sid_ouxi/">
+  <a href="https://www.instagram.com/sid_ouxi/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sidouxie Instagram Profile" height="30" width="30">
   </a>
  
   
-  <a target="_blank" href="https://www.behance.net/sidouxie">
+  <a href="https://www.behance.net/sidouxie" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Sidouxie Behance Profile" height="30" width="30">
   </a>
   
   
   
-  <a target="_blank" href="https://twitter.com/sidouxie">
+  <a href="https://twitter.com/sidouxie" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Sidouxie Twitter Profile" height="30" width="30">
   </a>
  
 
-  <a target="_blank" href="https://linkedin.com/in/sidouxie">
+  <a  href="https://linkedin.com/in/sidouxie" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sidouxie LinkedIn Profile" height="30" width="30">
   </a>
 
