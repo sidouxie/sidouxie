@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 <!--
 **sidouxie/sidouxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
