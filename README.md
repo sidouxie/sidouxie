@@ -20,6 +20,29 @@
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 
+<h2 align="center">You can reach me at </h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/sid_ouxi/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sidouxie Instagram Profile" height="30" width="30">
+  </a>
+ 
+  
+  <a href="https://www.behance.net/sidouxie">
+    <img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Sidouxie Behance Profile" height="30" width="30">
+  </a>
+  
+  
+  
+  <a href="https://twitter.com/sidouxie">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Sidouxie Twitter Profile" height="30" width="30">
+  </a>
+ 
+
+  <a href="https://linkedin.com/in/sidouxie">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sidouxie LinkedIn Profile" height="30" width="30">
+  </a>
+
 
 
 <!--
