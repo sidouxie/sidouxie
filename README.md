@@ -2,7 +2,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-<h3>Fullstack Developer</h3>
+<h3>Fullstack Developer Javascript</h3>
 
 <h3>🛠 Tech Stack</h3>
 
